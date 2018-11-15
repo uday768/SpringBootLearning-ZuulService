@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.thoughtmechanix.licenses.config.ServiceConfig",
+      "name": "licensingservice",
+      "type": "com.thoughtmechanix.licenses.config.ServiceConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.thoughtmechanix.licenses.config.ServiceConfig",
+      "name": "licensingservice.example",
+      "type": "java.lang.String"
+    }
+  ]
+}
